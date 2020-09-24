@@ -125,7 +125,7 @@ def SendMessages(mailto_list,ERROR_LIST,job_name):
 	h4='''
 	</br></br></br>
 	<p><font size="3" color="green">汇报时间:   %s</font></p>
-	<p><font size="3" color="green">  执行人:  郝晨霄</font></p>
+	<p><font size="3" color="green">  执行人:  XX</font></p>
 	</body>
 	</html>
 	'''
@@ -140,7 +140,7 @@ def SendMessages(mailto_list,ERROR_LIST,job_name):
 	html += h4%(nowtime)
 	print (html)
 	sub = 'NCC jenkins {}编译错误汇报'.format(job_name)
-	mail = SendEmail('mail.yonyou.com', 'haochx@yonyou.com', 'haochenxiao@ncc321666')
+	mail = SendEmail('', '', '')
 	if mail.sendTxtMail(mailto_list, sub, str(html)):  
 		print("NCC发送成功")
 	else:  
