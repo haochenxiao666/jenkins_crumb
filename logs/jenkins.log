@@ -1,0 +1,31 @@
+2020-09-24 10:38:42,890 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:78] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:38:42,890 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:78] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:41:05,704 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 295e78b7d924cabfe3e2b82ccc2f278d210aeb98ef992a0967aefb066331a265
+2020-09-24 10:41:05,704 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 295e78b7d924cabfe3e2b82ccc2f278d210aeb98ef992a0967aefb066331a265
+2020-09-24 10:41:52,701 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 92266c24781505c3755a6e2dd3d5e24099d5168b542e9fb930d59a93140aabac
+2020-09-24 10:41:52,701 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 92266c24781505c3755a6e2dd3d5e24099d5168b542e9fb930d59a93140aabac
+2020-09-24 10:41:52,735 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:41:52,735 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:44:19,247 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 636b232564cd31fd32e6dd293325a501c7e80e0873135b7526242d743fb5f81c
+2020-09-24 10:44:19,247 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 636b232564cd31fd32e6dd293325a501c7e80e0873135b7526242d743fb5f81c
+2020-09-24 10:44:19,258 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:54] - INFO: now_build_number is 29
+2020-09-24 10:44:19,258 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:54] - INFO: now_build_number is 29
+2020-09-24 10:44:19,268 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:44:19,268 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:44:19,279 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:64] - INFO: next_build_number is 30
+2020-09-24 10:44:19,279 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:64] - INFO: next_build_number is 30
+2020-09-24 10:44:49,369 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:96] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:44:49,369 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:96] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:44:49,399 - NCC_Jenkins.py[line:31] - INFO: 2012-test-ncc-hcx 构建成功
+2020-09-24 10:44:49,399 - NCC_Jenkins.py[line:31] - INFO: 2012-test-ncc-hcx 构建成功
+2020-09-24 10:47:10,189 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 85c40486ca231b3a1a0714736906d04f14d4d7843e194dce170cc188de35a3f1
+2020-09-24 10:47:10,208 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:54] - INFO: now_build_number is 30
+2020-09-24 10:47:10,218 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:47:10,229 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:64] - INFO: next_build_number is 31
+2020-09-24 10:47:39,436 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:96] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:48:54,599 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:44] - INFO: crumb is 39cb5c5edf4911c13ded5cea07c3f159a9dd300bc0f726401cbe0083337473f6
+2020-09-24 10:48:54,614 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:54] - INFO: now_build_number is 31
+2020-09-24 10:48:54,624 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:80] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:48:54,637 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:64] - INFO: next_build_number is 32
+2020-09-24 10:49:24,478 - /ncc/service/testsyscmdb/devops/jenkins/JenkinsClass.py[line:96] - INFO: 2012-test-ncc-hcx 已经构建完毕
+2020-09-24 10:49:24,490 - NCC_Jenkins.py[line:32] - INFO: 2012-test-ncc-hcx 构建成功
