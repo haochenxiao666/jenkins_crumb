@@ -39,7 +39,6 @@ def BuildJob(job_name):
             if e.find('错误') != -1:
                 email_msg.append(e)
                 logger.info(e)
-        #NCC_Mailers = ['haochx@yonyou.com']
         SendMessages(NCC_Mailers, email_msg, job_name)
 
 
