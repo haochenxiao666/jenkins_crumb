@@ -44,4 +44,3 @@ def BuildJob(job_name):
 
 
 BuildJob('2012-test-ncc-hcx')
-#BuildJob('TM_All-postcommit-ncc1.0')
